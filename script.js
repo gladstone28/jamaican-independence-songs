@@ -1,7 +1,7 @@
 document.addEventListener('DOMContentLoaded', function() {
     const playlist = [
         { title: "Jamaica I'll Never Leave You Again", singer: "Ras Karby", videoId: "GR3MMjdyKZk" },
-        { title: "New Jamaica (lyrics)", singer: "Stanley Beckford and The Starlights", videoId: "GRnVqFt5SKo " },
+        { title: "Song 2", singer: "Singer 2", videoId: "VIDEO_ID_2" },
         { title: "MEK WE JAM", singer: "THE ASTRONAUGHTS", videoId: "PRZr2eYylSM" },
         { title: "Song 4", singer: "Singer 4", videoId: "VIDEO_ID_4" },
         { title: "Song 5", singer: "Singer 5", videoId: "VIDEO_ID_5" },
