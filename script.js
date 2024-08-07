@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', function() {
         { title: "WHATABAMBAMWEAR", singer: "The Maytals - Bam Bam", videoId: "gy26FHXFf7o" },
         { title: "Ba Ba Boom Time", singer: "The Jamaicans", videoId: "NRP53Mtn5gI" },
         { title: "Never Gonna Give You Up", singer: "Rick Astley", videoId: "dQw4w9WgXcQ" },
-        { title: "Bohemian Rhapsody", singer: "Queen", videoId: "fJ9rUzIMcZQ" },
+        { title: "Intensified '68 (aka Music Like Dirt)", singer: "Desmond Dekker & The Aces ", videoId: "ClNAc2Ju41E&list=RDClNAc2Ju41E&start_radio=1&rv=GR3MMjdyKZk" },
         { title: "Sweet and Dandy", singer: "Toots and The Maytals", videoId: "RvXAn8Tuz4k" },
         { title: "Intensified '68 (aka Music Like Dirt)", singer: "Desmond Dekker & The Aces", videoId: "ClNAc2Ju41E" },
         { title: "Boom Shaka Laka (1970)", singer: "Hopeton Lewis", videoId: "CuOPPL65zUQ" },
@@ -15,6 +15,10 @@ document.addEventListener('DOMContentLoaded', function() {
         { title: "Get in the line festival time", singer: "Morvin Brooks", videoId: "68L0cFJdPOs" },
         { title: "play de music", singer: "tinga stewart", videoId: "CXfSndm_Kww" },
         { title: "Hooray Festival", singer: "Roman Stewart", videoId: "FGZ5zqVnbmg" },
+        { title: "Hooray Festival", singer: "Roman Stewart", videoId: "FGZ5zqVnbmg" },
+        { title: "Hooray Festival", singer: "Roman Stewart", videoId: "FGZ5zqVnbmg" },
+
+
         // Add more songs as needed
     ];
 
